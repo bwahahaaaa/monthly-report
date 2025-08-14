@@ -40,10 +40,4 @@ Test Case 5.1 – System marks "No breach" records as System Approved
 •	After Fix: Present
 •	Validated: Confirmed in both June 18th and 25th EOD reports — no-breach rows show “System Approved”.
 
-Summary Matrix of Behavior (Delta – Global Oil / Metals):
-Date	Fix Status	Global Oil Delta Breaches	Marked as Missing Exposure	Expected?
-June 18	Before Fix	Present (3 snaps)	 No	 Not expected
-June 18	After Fix	Present (3 snaps)	No	 Not expected
-June 25	Before Fix	Present (3 snaps)	No	Not expected
-June 25	After Fix	Not present	Yes	Correct
 
